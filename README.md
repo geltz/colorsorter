@@ -1,6 +1,6 @@
 # colorsorter
 
-Copy images into a `colorsorted/` folder so that alphabetical order follows each image’s dominant hue
+Copy images into a `colorsorted/` folder so that alphabetical order follows each image’s dominant hue.
 
 ## Install
 
@@ -24,3 +24,4 @@ python colorsorter.py ~/Pictures --recursive -v
 * Safety & control: `--sandbox PATH`, `--no-follow-symlinks`, `--max-files`, `--dry-run`.
 
 * Supports: jpg/jpeg/png/bmp/tif/tiff/webp/gif.
+
